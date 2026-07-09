@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INVITACION</title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<div id="intro-overlay">
+    <div class="intro-content">
+
+        <div class="envelope-wrapper">
+            <img src="principalvioleta.png" class="envelope-closed" alt="Invitación">
+
+            <button class="seal-btn" id="openInvitation">
+                <img src="botonvioleta.png" class="envelope-seal" alt="Abrir invitación">
+            </button>
+        </div>
+
+    </div>
+</div>
+
+<script>
+document.getElementById("openInvitation").addEventListener("click", () => {
+    window.location.href = "invitacion.html";
+});
+</script>
+
+</body>
+</html>
