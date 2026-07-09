@@ -1,6 +1,6 @@
 // FECHA: 11 de setiembre de 2026 (el numero del mes es 1 menos)
- //   const eventDate = new Date(2026, 7, 25, 22, 0, 0);
-const eventDate = new Date(2026, 6, 7, 22, 0, 0);
+  const eventDate = new Date(2026, 7, 25, 22, 0, 0);
+// const eventDate = new Date(2026, 6, 7, 22, 0, 0);
     
     function updateCountdown() {
         const now = new Date().getTime();
