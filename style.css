@@ -85,11 +85,11 @@
             padding: 2rem;
             position: relative;
             /*background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1582653291997-079a1b04e6a1?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80') center/cover no-repeat;*/
-            background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('fondo.jpeg') center/cover no-repeat;
+            background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('fondo.png') center/cover no-repeat;
             border-bottom: none;
             color: white;
             background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)),
-            url('fondo.jpeg') center/cover no-repeat;
+            url('fondo.png') center/cover no-repeat;
             
         }
 
